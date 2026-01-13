@@ -1,4 +1,4 @@
-# Gregorys-Coffee-sales-dashboard
+
 
 **Project Title:**
 🍵 NYC Gregorys Coffee sales dashboard 
@@ -20,8 +20,12 @@ Starbucks typically has more stores and higher foot traffic leading to higher sa
 The management wants to understand its key strengths for which they have hired a data analyst to analyse the sales trend for HY2023 so that they can strategize and implement marketing campaigns for the next part of year to attract new customers and retain current members.
 
 **Business KPI analysed**
-- Total Sales/Order/Quantity sold Analysis: Calculated for each month followed by MoM % increase or decrease along with the actual difference in sales (positive/negative)
-- Calender Heat Map: To identify sales, orders and quantity sold pattern for each of the months to understand sales margin on weekdays and weekends.
+- Total Sales/Order/Quantity sold Analysis: Calculated for each month followed by a MoM % increase or decrease along with the actual difference in sales
+- Morning Peak Dependency Ratio / Morning Sales % - To identify how revenue is dependent on morning hours
+- Product Basket Depth / Items per Order - To identify how many items customers buy per transaction
+- Revenue Concentration Risk (Top Product Dependency) - To identify how much revenue depends on few SKUs
+- Sales Volatility/Std deviation - To identify how much of average daily spends deviate from mean
+- Calender Heat Map: To identify sales, orders and quantity sold pattern for each of the months to analyse sales margin on weekdays and weekends.
 - Sales analysis based on location by finding out total sales, MoM % increase/decrease and margin basis last month
 - Finding average sales done in a particular month and the days of months which fare above average
 - How sale of different products categories fare for each month	by finding out sales and MoM % increase/decrease
@@ -30,5 +34,8 @@ The management wants to understand its key strengths for which they have hired a
 - A sales forecast for 30 days
 
 **Business Impact & Insights Marketing Optimization:**
+
+- 
+
 
 
