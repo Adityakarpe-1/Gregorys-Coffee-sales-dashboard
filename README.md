@@ -1,4 +1,5 @@
 
+<img width="1197" height="675" alt="Snapshot of dashboard" src="https://github.com/user-attachments/assets/3064fa8d-0bd0-43bf-8d5d-857461e65d9c" />
 
 **Project Title:**
 🍵 NYC Gregorys Coffee sales dashboard 
