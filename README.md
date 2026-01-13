@@ -27,6 +27,7 @@ The management wants to understand its key strengths for which they have hired a
 - How sale of different products categories fare for each month	by finding out sales and MoM % increase/decrease
 - The top 10 highest selling products
 - Heat map showing day & hour wise sales,orders and quantity sold w.rt. last months data
+- A sales forecast for 30 days
 
 **Business Impact & Insights Marketing Optimization:**
 
