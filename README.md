@@ -53,7 +53,7 @@ The objective was to use these insights to strategize and implement targeted mar
 - Use top products as anchor items to bundle slower-moving categories such as bakery and drinking chocolate.
 - Introduce limited-time variations of bestsellers to drive repeat purchases without cannibalization.
 
-  **- Moderate Basket Depth Indicates Cross-Sell Opportunity:** 
+**- Moderate Basket Depth Indicates Cross-Sell Opportunity:** 
   The average items per order is 1.44, suggesting that most customers purchase only one or two items per visit.
 
   Marketing Optimization
@@ -69,6 +69,7 @@ Marketing Optimization
 
 **- Location-Based Performance Differentiation:** 
   Hell’s Kitchen and Astoria outperform Lower Manhattan in total sales contribution, while Lower Manhattan shows untapped potential.
+  
   Marketing Optimization
 - Introduce corporate breakfast subscriptions in Lower Manhattan.
 - Deploy event-driven and evening promotions in Hell’s Kitchen.
