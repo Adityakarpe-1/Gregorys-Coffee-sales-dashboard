@@ -36,7 +36,38 @@ The management wants to understand its key strengths for which they have hired a
 
 **Business Impact & Insights Marketing Optimization:**
 
-- 
+- Strong Dependence on Morning Sales Window
+  55.56% of total revenue is generated during morning hours, highlighting heavy dependence on commuter-driven demand. Sales peak between 7 AM and 11 AM, with a       sharp drop post-morning hours across all locations.
+  This time period can be capitalized most by initating morning loyalty boosters by giving double points on   orders made before 11 am to turn first time customers   to regulars and keep the flow of regular customers. Mid-day offers can be started to increase footfalls and mitigate risk.
+  
+- Revenue Concentration Around Few Core Products
+  The top 5 products contribute 51.35% of total sales, indicating high reliance on a small set of SKUs.
+  Use bestsellers as anchor products to bundle slower-moving    items (bakery, drinking chocolate). Introduce limited-time variations of top SKUs to drive repeat     purchases without cannibalization.
+
+- Moderate Basket Depth Indicates Cross-Sell Opportunity
+  Average items per order is 1.44, suggesting most customers purchase only 1–2 items per visit indicating moderate success in cross-selling, with room for            improvement.
+  Combo pricing can be introduced which combines 2-3 items such as coffee+sandwitch+bakery.
+  Point-of-sale prompts such as "Add a croissant for $X" can also be used   to increase basket size.
+
+- Consistent Spend Per Transaction Across Weekdays & Weekends
+  Weekday and weekend AOV contributions are nearly identical (~50/50).
+  Revenue differences are driven by traffic volume, not spending per order.
+  In order to increase visits, initiatives such as flat X% off on first weekend, buy on 3 weekends, get 1 free coffee, and sunday morning bruch brews.
+
+- Location-Based Performance Differentiation
+  Hell’s Kitchen and Astoria outperform Lower Manhattan in total sales contribution.
+  Deploy corporate breakfast subscriptions in Lower Manhattan.
+  Use evening and event-driven promotions in Hell’s Kitchen.
+  Promote weekend family bundles in Astoria to increase transaction frequency.
+
+- Forecast-Driven Campaign Planning
+  The 30-day forecast shows a stable upward trend with clear weekly seasonality.
+  Schedule targeted promotions during forecasted demand dips.
+  Support inventory and workforce planning using projected sales trends.
+  Enable proactive decision-making for the next phase of the business cycle.
+  
+
+
 
 
 
