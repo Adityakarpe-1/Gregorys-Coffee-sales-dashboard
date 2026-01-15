@@ -39,41 +39,54 @@ The objective was to use these insights to strategize and implement targeted mar
 **Business Impact & Insights – Marketing Optimization**
 
 **- Strong Dependence on Morning Sales Window :**
-  Approximately 55.56% of total revenue is generated during morning hours, with peak sales occurring between 7 AM and 11 AM across all locations. 
+  Approximately **55.56%** of total revenue is generated during morning hours, with peak sales occurring between **7 AM and 11 AM** across all locations. 
   Sales decline significantly after this window.
 
   Marketing Optimization
-- Introduce morning loyalty boosters such as double reward points before 11 AM to convert first-time customers into regulars.
-- Launch mid-day promotional offers to increase footfall and reduce dependency on morning demand.  
+- Introduce morning loyalty boosters such as double reward points before **11 AM** to convert first-time customers into regulars.
+- Launch mid-day promotional offers to increase footfall and reduce dependency on morning demand.
+- Target corporate employees and college students during mid-day hours by offering free Wi-Fi and a “happy hour” menu with select items at discounted prices, positioning stores as productive work and study spaces.
+- Diversify menu options by including iced drinks, hot chocolate, and herbal / caffeine-free teas to target non-coffee drinkers and increases evening relevance.
+  
   
 **- Revenue Concentration Around Core Products:**
-  The top 5 products contribute 51.35% of total sales, indicating high reliance on a small set of SKUs.
+  The top 5 products contribute **51.35%** of total sales, indicating high reliance on a small set of SKUs.
   
   Marketing Optimization
-- Use top products as anchor items to bundle slower-moving categories such as bakery and drinking chocolate.
-- Introduce limited-time variations of bestsellers to drive repeat purchases without cannibalization.
+- Use best-selling products as anchor SKUs to bundle slower-moving categories (e.g., coffee + bakery or coffee + drinking chocolate), encouraging product discovery without discounting core items.
+- Introduce limited-time variants of top-performing products (flavor infusions, seasonal recipes) to drive repeat purchases while leveraging existing demand and minimizing cannibalization risk.
+- Seasonal menu innovation using fruits such as kiwis, strawberries, blueberries, and mangoes to launch milkshakes, coolers, or iced beverages, expanding non-core product adoption during warmer months.
+- Day-specific product spotlight strategy (e.g., “Bakery Wednesday” or “Cold Brew Friday”) with light incentives (5–10%) to nudge customers toward trying non-bestseller items and diversify revenue across SKUs.
 
 **- Moderate Basket Depth Indicates Cross-Sell Opportunity:** 
   The average items per order is 1.44, suggesting that most customers purchase only one or two items per visit.
 
   Marketing Optimization
-- Introduce combo pricing (e.g., coffee + sandwich + bakery).
-- Implement point-of-sale prompts such as “Add a croissant for $X” to increase basket size.
+- Introduce structured combo bundles (e.g., coffee + sandwich or coffee + bakery) with light price incentives to encourage multi-item purchases without eroding margins.
+- Contextual point-of-sale prompts such as “Add a croissant for $X” or “Upgrade to a combo”, triggered during order placement to nudge add-on behavior.
+- Time-based cross-sell offers, promoting food pairings during peak morning hours and snack-focused bundles during mid-day and evening periods.
+- Location-specific bundle design, aligning combinations with local customer profiles (corporate breakfast combos in Lower Manhattan, snack or family bundles in Astoria).
+- Visual menu engineering, using menu boards and digital displays to highlight best-selling pairings and recommended add-ons rather than listing products in isolation.
+
 
 **- Consistent Spend Per Transaction Across Weekdays & Weekends:** 
   Weekday and weekend average order value is nearly identical (~50/50), indicating that revenue differences are driven by foot traffic rather than basket size.
+  Focus weekend campaigns on increasing visits, not upselling.
 
 Marketing Optimization
-- Focus weekend campaigns on increasing visits, not upselling.
-- Run initiatives such as flat discounts on first weekend visits, “Buy on 3 weekends, get 1 free coffee,” and Sunday brunch-focused offers.
+- Drive repeat weekend visits through frequency-based incentives, such as “Buy on 3 weekends, get 1 free coffee”, to build habitual weekend behavior without relying on heavy discounts.
+- Community-driven weekend engagement initiatives, including monthly evening music gigs or themed weekend events, to position stores as social destinations rather than purely transactional stops.
+- Event-aligned marketing during major sports weekends (e.g., baseball and rugby) using paid local promotions and targeted ads to capture high footfall from nearby sports venues and viewing hotspots.
 
+    
 **- Location-Based Performance Differentiation:** 
   Hell’s Kitchen and Astoria outperform Lower Manhattan in total sales contribution, while Lower Manhattan shows untapped potential.
   
   Marketing Optimization
-- Introduce corporate breakfast subscriptions in Lower Manhattan.
-- Deploy event-driven and evening promotions in Hell’s Kitchen.
-- Promote family-oriented weekend bundles in Astoria to increase transaction frequency.
+- Corporate group incentives and breakfast subscriptions in Lower Manhattan, offering group-based rewards when employees visit together, encouraging higher weekday footfall from nearby offices.
+- Experience-led evening and late-night positioning in Hell’s Kitchen, including extended store hours and pre-/post-Broadway show coffee specials or late-evening beverage menus aligned with entertainment schedules.
+- Family-focused weekend initiatives in Astoria, such as family brunch menus and community-oriented events, to increase visit frequency among residents and local households.
+
 
 **- Forecast-Driven Campaign Planning:** 
   The 30-day sales forecast indicates a stable upward trend with clear weekly seasonality.
