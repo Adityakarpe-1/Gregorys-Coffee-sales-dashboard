@@ -95,7 +95,15 @@ Marketing Optimization
 - Schedule targeted promotions during forecasted demand dips.
 - Use forecast insights to optimize inventory planning and workforce allocation.
 - Enable proactive, data-driven decision-making for upcoming marketing cycles.
-  
+
+
+**Store Experience & Product Presentation as Growth Drivers**
+While store ambience and coffee presentation are qualitative factors, their impact is reflected indirectly through customer behavior captured in the dashboard. Consistent spend per transaction, repeat visit patterns, and extended engagement beyond peak hours suggest that store experience and visual appeal play a key role in customer retention and visit frequency.
+
+Marketing Optimization
+- Enhance store ambience and seating comfort to encourage mid-day and weekend dwell time.
+- Invest in visually appealing coffee presentation and seasonal beverages to drive trial and social sharing.
+- Align store experience design with neighborhood context, emphasizing social and evening-friendly environments in Hell’s Kitchen and family-oriented comfort in Astoria.
 
 
 
